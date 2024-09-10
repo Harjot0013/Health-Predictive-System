@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 from dotenv import load_dotenv
 from streamlit_option_menu import option_menu
 
